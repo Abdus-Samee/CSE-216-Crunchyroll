@@ -31,7 +31,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
       $ npm install -g yarn
 
 ---
-## Install
+## Install/Clone Project
 
     $ git clone https://github.com/Abdus-Samee/CSE-216-Crunchyroll.git
     $ cd CSE-216-Crunchyroll
@@ -39,7 +39,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Crunchyroll Server
   As our project includes large video and pdf files as a source folder of server, these files were not pushed in the Git, in order to recreate the project the "public" folder can be manually downloaded from the following drive link:
 
-  [Crunchyroll-Server\public](https://nodejs.org/)
+  [Crunchyroll-Server\public](https://drive.google.com/drive/folders/1DLrVnv2DGebpbS3r6l7oNRJXT8tkcv6_?usp=sharing)
 
   In the terminal, the following command will run the server
  
