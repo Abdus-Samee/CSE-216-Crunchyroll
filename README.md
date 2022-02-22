@@ -1,6 +1,18 @@
 # CSE-216-Crunchyroll
 <b>Crunchyroll</b> is our project for the course CSE-216. This is focused on streaming anime and manga to the viewers.
 
+The project schema can be viewed via link below:
+
+[Crunchyroll Schema](https://docs.google.com/document/d/1PXGCwCeDjs_CD-UtwFe52fSDm85rgJA2DV3FygogEZk/edit?usp=sharing)
+
+ERD of our project can be viewed here:
+
+[Crunchyroll ERD](https://lucid.app/lucidchart/3470152d-5207-49bb-af43-06c1761f9f6e/edit?invitationId=inv_76c4fda7-da26-4f32-bbe2-ef8562c6bf73)
+
+A brief screenshot is given below:
+
+![Project ERD (1)](https://user-images.githubusercontent.com/54764108/155218861-4f5c3b99-b679-4874-a880-e629fcffc4d6.png)
+
 
 ## Requirements
 
@@ -31,7 +43,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
       $ npm install -g yarn
 
 ---
-## Install/Clone Project
+## Clone Project
 
     $ git clone https://github.com/Abdus-Samee/CSE-216-Crunchyroll.git
     $ cd CSE-216-Crunchyroll
