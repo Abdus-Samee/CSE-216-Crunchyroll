@@ -60,7 +60,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
   In the terminal, the following command will run the server
   
-    $ cd Crunchyroll-Server
+    $ cd crunchyroll-server
     $ yarn install
  
  This will download all the necessary packages required to run the server. Next run the following command.
@@ -95,7 +95,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Crunchyroll Client
   The client part should have its own modules and packages required to run including react scripts. So, in another terminal run the folowing commands:
 
-    $ cd Crunchyroll-Client
+    $ cd crunchyroll-client
     $ yarn install
     
   This should download all the required packages. It may take some time. Then running followiing command should open up the react app.
