@@ -60,7 +60,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ git clone https://github.com/Abdus-Samee/CSE-216-Crunchyroll.git
     $ cd CSE-216-Crunchyroll
-    $ yarn install
 ## Crunchyroll Server
   As our project includes large video and pdf files as a source folder of server, these files were not pushed in the Git, in order to recreate the project the "public" folder can be manually downloaded from the following drive link:
 
