@@ -56,7 +56,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Crunchyroll Server
   As our project includes large video and pdf files as a source folder of server, these files were not pushed in the Git, in order to recreate the project the "public" folder can be manually downloaded from the following drive link:
 
-  [Crunchyroll-Server\public](https://drive.google.com/drive/folders/1DLrVnv2DGebpbS3r6l7oNRJXT8tkcv6_?usp=sharing)
+  [<b>Crunchyroll-Server\public</b>](https://drive.google.com/drive/folders/1DLrVnv2DGebpbS3r6l7oNRJXT8tkcv6_?usp=sharing)
 
   In the terminal, the following command will run the server
   
