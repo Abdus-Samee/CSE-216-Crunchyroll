@@ -67,23 +67,23 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
  
     $ yarn start
     
-  However, it should generate an error for failing to locate a specific module,
+  However, it should generate an error for failing to locate a specific module,<br/><br/>
   ![image](https://user-images.githubusercontent.com/54764108/155105424-aef68509-cd76-48a6-94e2-825ec0775f78.png)
 
-  Therefore it is required to install Oracle instant Client, which can be found in the this 
+  Therefore it is required to install Oracle instant Client, which can be found in the this
   [Link](https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html)
   
-  From there, it is required to download basic package zip and extract in the local computer.
+  From there, it is required to download basic package zip and extract in the local computer.<br/><br/>
   ![image](https://user-images.githubusercontent.com/54764108/155106476-637e4e60-a5f8-44d0-9074-cbfe9a9df592.png)
   
-  After extracting, the file path of the downloaded folder is to be saved or copied.
+  After extracting, the file path of the downloaded folder is to be saved or copied.<br/><br/>
   ![image](https://user-images.githubusercontent.com/54764108/155106895-290a995c-fb1d-4576-bbc7-a2fc004d902c.png)
   
-  Now, back to Crunchyroll-Server source file in the IDE, in the connection\query.js, search for the line with the keyword "oracledb.initOracleClient" and update the file path according to your own file path from earlier like below:
-  ![image](https://user-images.githubusercontent.com/54764108/155107862-6f5a206e-e069-41f6-80e0-afebedcd68f3.png)
+  Now, back to Crunchyroll-Server source file in the IDE, in the connection\query.js, search for the line with the keyword "oracledb.initOracleClient" and update the file path according to your own file path from earlier like below:<br/><br/>
+  ![image](https://user-images.githubusercontent.com/54764108/155107862-6f5a206e-e069-41f6-80e0-afebedcd68f3.png)<br/><br/>
   Notice that, the file path string should now also include double blackslashes like the image above.
   
-  One last thing to do is checking the connection string inside <i>query</i> function of <i>repository</i> class of <b>connection/query.js</b>. Our schema was developed inside the hr schema. Provide the username and relevant password of your database user.
+  One last thing to do is checking the connection string inside <i>query</i> function of <i>repository</i> class of <b>connection/query.js</b>. Our schema was developed inside the hr schema. Provide the username and relevant password of your database user.<br/><br/>
   ![gg](https://user-images.githubusercontent.com/53638835/155561753-7290ab13-38b2-4e3c-8c66-08562fa58af8.PNG)
 
   
