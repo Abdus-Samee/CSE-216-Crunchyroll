@@ -54,6 +54,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
   [Crunchyroll-Server\public](https://drive.google.com/drive/folders/1DLrVnv2DGebpbS3r6l7oNRJXT8tkcv6_?usp=sharing)
 
   In the terminal, the following command will run the server
+  
+    $ cd Crunchyroll-Server
+    $ yarn install
+ 
+ This will download all the necessary packages required to run the server. Next run the following command.
  
     $ yarn start
     
