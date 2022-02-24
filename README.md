@@ -83,6 +83,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
   ![image](https://user-images.githubusercontent.com/54764108/155107862-6f5a206e-e069-41f6-80e0-afebedcd68f3.png)
   Notice that, the file path string should now also include double blackslashes like the image above.
   
+  One last thing to do is checking the connection string inside <i>query</i> function of <i>repository</i> class of <b>connection/query.js</b>. Our schema was developed inside the hr schema. Provide the username and relevant password of your database user.
+  ![gg](https://user-images.githubusercontent.com/53638835/155561753-7290ab13-38b2-4e3c-8c66-08562fa58af8.PNG)
+
+  
   Now running the following command again should run the server.
 
      $ yarn start
