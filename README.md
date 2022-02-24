@@ -47,6 +47,14 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
       $ npm install -g yarn
 
+###
+### SQL execution
+  We are using oracle as our database. In the Navicat GUI, we open a connection with our database user and related password. Then we select 
+  our schema and right click it. After that, we select the option <i>Execute SQL file</i> and mention the file path of <b>HR.sql</b>. This will 
+  import all the data and tables.<br/><br/>
+  ![Screenshot (16)](https://user-images.githubusercontent.com/53638835/155565720-dc3343d4-a70e-42e4-ae82-2aedffad15d8.png)
+
+
 ---
 ## Clone Project
 
