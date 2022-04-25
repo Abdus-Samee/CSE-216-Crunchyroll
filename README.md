@@ -9,6 +9,9 @@ ERD of our project can be viewed here:
 
 [<b>Crunchyroll ERD</b>](https://lucid.app/lucidchart/3470152d-5207-49bb-af43-06c1761f9f6e/edit?invitationId=inv_76c4fda7-da26-4f32-bbe2-ef8562c6bf73)
 
+YouTube link:
+[here](https://www.youtube.com/watch?v=pB9KNY6kMsU)
+
 A brief screenshot is given below:
 
 ![Project ERD (1)](https://user-images.githubusercontent.com/54764108/155218861-4f5c3b99-b679-4874-a880-e629fcffc4d6.png)
